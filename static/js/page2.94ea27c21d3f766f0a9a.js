@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=document.querySelector(".output"),t=document.querySelector("button");let c=0;t.addEventListener("click",(()=>{c+=1,e.innerHTML=c}))})();
